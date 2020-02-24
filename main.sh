@@ -30,3 +30,5 @@ fi
 #https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
 
 #https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba
+
+#https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
