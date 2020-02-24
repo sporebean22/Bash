@@ -1,8 +1,5 @@
 echo "EYO" > Testo.txt
 
-
-
-"""
 City='New York';
 Numeric1=23
 Numeric2=45
@@ -29,5 +26,7 @@ if [ $name=HI]
   else
     echo oh noes
 fi
+
+#https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
 
 #https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba
