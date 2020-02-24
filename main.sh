@@ -1,5 +1,8 @@
-echo Hello World
+echo "EYO" > Testo.txt
 
+
+
+"""
 City='New York';
 Numeric1=23
 Numeric2=45
@@ -14,11 +17,17 @@ echo here comes the calc
 RESULT2=$(expr 3 \* 3)
 echo $RESULT2
 
-if [ "$name="HI"""]
+function Yeet()
+{
+  expr 5*8
+  echo $
+}
+
+if [ $name=HI]
   then 
-    echo "yes it worked"
+    echo yes it worked
   else
-    echo "oh noes"
+    echo oh noes
 fi
 
 #https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba
